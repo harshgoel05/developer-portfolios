@@ -67,6 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Pham](https://auspham.dev)
 - [Avi Patil](https://avipatilweb.me)
 - [Azhar Zafar](http://azharr.com)
+- [Arup Mandal](https://arupmandal.github.io/)
 
 ## B
 
